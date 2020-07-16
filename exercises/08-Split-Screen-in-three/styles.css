@@ -3,10 +3,21 @@ body {
 }
 #sectionA {
 	background: blue;
+	display: flex;
+	flex-grow: 1;
 }
 #sectionB {
 	background: red;
+	display: flex;
+	flex-grow: 1;
 }
 #sectionC {
 	background: green;
+	display: flex;
+	flex-grow: 1;
+}
+
+.maindiv {
+	display: flex;
+	align-items: column;
 }
