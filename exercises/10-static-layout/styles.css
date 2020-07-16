@@ -1,5 +1,15 @@
 /* your code here */
 
+nav {
+	float: left;
+	width: 25%;
+}
+
+section {
+	float: right;
+	width: 74%;
+}
+
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
