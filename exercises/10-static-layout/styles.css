@@ -1,13 +1,26 @@
 /* your code here */
+.wrapper {
+	position: relative;
+	padding: 20px;
+	height: 100%;
+}
 
 nav {
 	float: left;
 	width: 25%;
+	display: block;
+	flex-flow: column;
+	height: 82vh;
+	text-align: center;
 }
 
 section {
 	float: right;
 	width: 74%;
+	display: flex;
+	flex-flow: column;
+	height: 82vh;
+	text-align: center;
 }
 
 /**************************************
