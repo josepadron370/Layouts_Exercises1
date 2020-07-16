@@ -5,6 +5,7 @@ body {
 	background: blue;
 	display: flex;
 	flex-grow: 1;
+	height: 1000px;
 }
 #sectionB {
 	background: red;
